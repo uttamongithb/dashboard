@@ -70,7 +70,7 @@ const ArticleTable: React.FC = () => {
 
   return (
     <div>
-      <div className="flex justify-end items-center mb-4">
+      <div className="flex justify-center items-center  mb-8 mt-10">
         <input
           type="text"
           placeholder="Search for Title & Keywords..."
